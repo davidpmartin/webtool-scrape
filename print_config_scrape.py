@@ -1,4 +1,4 @@
-##-- PrinterConfigScrape.ps1 ------------------------------
+##-- PrinterConfigScrape.py ------------------------------
 #
 # Author:
 #  David Martin
